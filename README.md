@@ -11,12 +11,12 @@ As a user I want to be able to take notes and be able to save it so I can check 
 be able to track my progess on my tasks.
 
 ### Website Link
-Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
+Check out the deployed app here: [Note Taker](https://writeandsavenotes.herokuapp.com/)
 
 ### Screenshots
 
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_01.jpg)
-![screenshot](https://github.com/kara-krzystan/note-taker/blob/main/public/assets/images/Screenshot_02.jpg)
+![screenshot](/public/assets/images/NoteTaker_1.JPG)
+![screenshot](/public/assets/images/NoteTaker_2.JPG)
 
 ### Contact
 
